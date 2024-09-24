@@ -5,7 +5,7 @@ export default StyleSheet.create({
       flex: 1,
       alignItems: 'center',
       justifyContent: 'center',
-      backgroundColor: '#60D020'
+      backgroundColor: '#A0D060'
     },
     botaoEntrar: {
       backgroundColor: '#ffffff',
