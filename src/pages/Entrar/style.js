@@ -30,6 +30,7 @@ export default StyleSheet.create({
       marginTop: '10%',
       marginRight: '10%',
       marginLeft: '10%',
+      resizeMode: 'contain',
     },
     input: {
       width: '90%',
@@ -40,5 +41,20 @@ export default StyleSheet.create({
       marginTop: 20/3 + '%',
       marginRight: '5%',
       marginLeft: '5%',
-    }
+    },
+    botaoVisitante: {
+      backgroundColor: '#ffffff',
+      borderWidth: 1,
+      borderColor: '#000000',
+      borderRadius: 15,
+      paddingHorizontal: 20,
+      paddingVertical: 10,
+      marginBottom: 20,
+    },
+    botaoEntrar: {
+      backgroundColor: '#A0D060',
+      borderRadius: 15,
+      paddingHorizontal: 20,
+      paddingVertical: 10,
+    },
 });

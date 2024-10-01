@@ -11,7 +11,8 @@ export default StyleSheet.create({
       backgroundColor: '#ffffff',
       borderWidth: 1,
       borderColor: '#000000',
-      borderRadius: 10,
-      padding: 5,
+      borderRadius: 15,
+      paddingHorizontal: 20,
+      paddingVertical: 10,
     },
 });
