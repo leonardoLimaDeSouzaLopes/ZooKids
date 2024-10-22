@@ -15,12 +15,12 @@ export default function PaginaInicial() {
         <Text style={styles.textoNav}>Territórios</Text>
       </View>
       <View style={styles.containerTerritorios}>
-        <ImageBackground style={styles.territorio} source={require("../../../assets/territorio1.png")}>
+        {/*<ImageBackground style={styles.territorio} source={require("../../../assets/territorio1.png")}>
         </ImageBackground>
         <ImageBackground style={styles.territorio} source={require("../../../assets/territorio1.png")}>
         </ImageBackground>
         <ImageBackground style={styles.territorio} source={require("../../../assets/territorio1.png")}>
-        </ImageBackground>
+        </ImageBackground>*/}
       </View>
     </ScrollView>
   );

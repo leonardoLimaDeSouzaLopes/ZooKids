@@ -11,7 +11,7 @@ export default function Entrar() {
     <View style={styles.container}>
       <StatusBar style="auto"/>
       <View style={styles.containerTopo}>
-        <Image style={styles.imagemZoo} source={require('../../../assets/zoo.jpg')} />
+          <Image style={styles.imagemZoo} source={require('../../../assets/zoo.png')} />
       </View>
       <View style={styles.containerInputs}>
         <TextInput style={styles.input} placeholder='    Nome'></TextInput>
