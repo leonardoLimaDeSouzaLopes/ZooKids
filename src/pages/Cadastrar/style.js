@@ -42,7 +42,7 @@ export default StyleSheet.create({
       marginRight: '5%',
       marginLeft: '5%',
     },
-    botaoVisitante: {
+    botaoLogar: {
       backgroundColor: '#ffffff',
       borderWidth: 1,
       borderColor: '#000000',

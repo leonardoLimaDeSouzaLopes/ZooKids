@@ -10,7 +10,7 @@ export default function Home() {
     <View style={styles.container}>
       <StatusBar style="auto"/>
       <View style={styles.botaoEntrar}>
-        <Pressable onPress={ () => navigation.navigate('Entrar')}><Text>Entrar</Text></Pressable>
+        <Pressable onPress={ () => navigation.navigate('Logar')}><Text>Logar</Text></Pressable>
       </View>
     </View>
   );
