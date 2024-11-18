@@ -57,4 +57,18 @@ export default StyleSheet.create({
       paddingHorizontal: 20,
       paddingVertical: 10,
     },
+    modal: {
+      flex: 1,
+      alignItems: 'center',
+      justifyContent: 'center',
+      backgroundColor: '#ffffff'
+    },
+    textoModal: {
+    },
+    botaoVoltar: {
+      backgroundColor: '#A0D060',
+      borderRadius: 15,
+      paddingHorizontal: 20,
+      paddingVertical: 10,
+    },
 });
