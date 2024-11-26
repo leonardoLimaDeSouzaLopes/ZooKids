@@ -5,7 +5,8 @@ export default StyleSheet.create({
       flex: 1,
       alignItems: 'center',
       justifyContent: 'center',
-      backgroundColor: '#ffffff'
+      backgroundColor: '#ffffff',
+      fontFamily: "Arial",
     },
     containerTopo: {
       flex: 2,
@@ -70,5 +71,7 @@ export default StyleSheet.create({
       borderRadius: 15,
       paddingHorizontal: 20,
       paddingVertical: 10,
+      alignItems: "center",
+      width: 100,
     },
 });

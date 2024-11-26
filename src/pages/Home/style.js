@@ -5,14 +5,15 @@ export default StyleSheet.create({
       flex: 1,
       alignItems: 'center',
       justifyContent: 'center',
-      backgroundColor: '#A0D060'
+      backgroundColor: '#A0D060',
+      fontFamily: "Arial",
     },
-    botaoEntrar: {
-      backgroundColor: '#ffffff',
-      borderWidth: 1,
-      borderColor: '#000000',
-      borderRadius: 15,
-      paddingHorizontal: 20,
-      paddingVertical: 10,
+    tamanhoMaximo: {
+      flex: 1,
+    },
+    gif: {
+      margin: 'auto',
+      width:  300,
+      height: 125,
     },
 });
